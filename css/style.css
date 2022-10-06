@@ -1,0 +1,67 @@
+.imagen{
+    height: 380px;
+}
+
+.titulo{
+    color: #F65A83	;
+}
+
+.title{
+    color: #F65A83;
+    font-size: 70px;
+    font-family: monospace;
+
+}
+
+.subtitle{
+    color: #F65A83;
+    font-family: monospace;
+    font-size: 60px;
+
+
+}
+
+.btn{
+    background-color: #FFC4C4;
+    color: white;
+    
+}
+
+.btn:hover{
+    background-color: #FFECEF;
+    color: white;
+}
+
+.lista{
+    padding:0 40px;
+}
+
+.sub{
+    color: #F65A83;
+}
+
+.circle{
+    background-color: #F65A83;
+}
+
+.texto span{
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.cite{
+    font-size: 20px;
+    font: italic;
+    color: black;
+}
+
+
+.icon{
+    color: #FF577F;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.foot{
+    font-size: 20px;
+}
